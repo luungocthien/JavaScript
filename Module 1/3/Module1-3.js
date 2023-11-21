@@ -1,0 +1,11 @@
+'use strict';
+let num1 = parseFloat(prompt('Enter 1st number: '));
+let num2 = parseFloat(prompt('Enter 2nd number: '));
+let num3 = parseFloat(prompt('Enter 3rd number: '));
+let sum = num1 + num2 + num3;
+let product = num1*num2*num3;
+let average = sum/3;
+document.querySelector('#line0').innerHTML = 'Entered numbers: ' + num1 + ', ' + num2 + ', and '+ num3;
+document.querySelector('#line1').innerHTML = 'Sum: ' + sum;
+document.querySelector('#line2').innerHTML = 'Product: ' + product;
+document.querySelector('#line3').innerHTML = 'Average: ' + average;
