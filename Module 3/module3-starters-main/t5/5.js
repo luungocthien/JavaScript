@@ -1,8 +1,8 @@
 'use strict';
 const picArray = [
   {
-    title: 'Title 1',
-    caption: 'Caption 1',
+    title: 'Title 1-3',
+    caption: 'Caption 1-3',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sodales enim eget leo condimentum vulputate. Sed lacinia consectetur fermentum. Vestibulum lobortis purus id nisi mattis posuere. Praesent sagittis justo quis nibh ullamcorper, eget elementum lorem consectetur. Pellentesque eu consequat justo, eu sodales eros.',
     image: {
